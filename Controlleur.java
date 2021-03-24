@@ -30,11 +30,6 @@ public class Controlleur {
     @FXML
     private RadioButton RdButtonDessert;
 
-    @FXML
-    private RadioButton RdButtonSucre;
-
-    @FXML
-    private RadioButton RdButtonSale;
 
     @FXML
     private Menu btnModif;

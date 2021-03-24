@@ -34,8 +34,7 @@
             <RadioButton fx:id="RdButtonEntree" layoutX="20.0" layoutY="518.0" mnemonicParsing="false" onAction="#filtrer" text="Entrée" />
             <RadioButton fx:id="RdButtonPlat" layoutX="20.0" layoutY="536.0" mnemonicParsing="false" onAction="#filtrer" text="Plat" />
             <RadioButton fx:id="RdButtonDessert" layoutX="20.0" layoutY="554.0" mnemonicParsing="false" onAction="#filtrer" text="Dessert" />
-            <RadioButton fx:id="RdButtonSucre" layoutX="110.0" layoutY="527.0" mnemonicParsing="false" onAction="#filtrer" text="Sucré" />
-            <RadioButton fx:id="RdButtonSale" layoutX="110.0" layoutY="545.0" mnemonicParsing="false" onAction="#filtrer" text="Salé" />
+
             <MenuBar layoutX="-7.0" prefHeight="26.0" prefWidth="900.0">
               <menus>
                 <Menu fx:id="btnModif" mnemonicParsing="false" onAction="#modifierRecette" text="Modifier Recette" />
